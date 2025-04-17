@@ -1,0 +1,2 @@
+# generate-boilerplate
+projeto que desenvolvi em Laravel 12 para automatizar todo o boilerplate inicial de uma API RESTful com o upload do seu arquivo .sql à geração de migrations, models, controllers e rotas. 
