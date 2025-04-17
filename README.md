@@ -50,8 +50,13 @@ Boas práticas de estruturação de projetos e automação de tarefas repetitiva
 ## Instalação
 
 git clone https://github.com/VicenteEduardo/generate-boilerplate.git
+
 cd generate-boilerplate
+
 composer install
+
 cp .env.example .env
+
 php artisan key:generate
+
 php artisan serve
